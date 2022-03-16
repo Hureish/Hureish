@@ -1,5 +1,5 @@
 <div align="center"> 
- <img src="https://github.com/Hureish/Hureish/blob/main/github.gif" width="250" height="260"> 
+ <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="250" height="260"> 
  <img src="https://thumbs.gfycat.com/AmusedSilkyImperatorangel-size_restricted.gif" width="500" height="260"> 
 </div>
 
