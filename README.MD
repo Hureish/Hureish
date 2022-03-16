@@ -9,7 +9,7 @@ I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.R
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Hureish&label=Profile%20views&color=ce9927&style=flat" alt="Hureish" /> </p>
-⚡ Fun facts -**Taking too much time in "Main function" is a Crime.**
+⚡ Fun facts -**Make it work, make it right, make it fast.**
 
 <h1 align="center">Tech-Stack</h1>
 
