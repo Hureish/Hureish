@@ -1,6 +1,6 @@
 <div align="center"> 
  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="250" height="260"> 
- <img src="https://thumbs.gfycat.com/AmusedSilkyImperatorangel-size_restricted.gif" width="500" height="260"> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIv_-uSV17PXLx0hPeLmYW_W78Zq5kLMxXXg&usqp=CAU" width="500" height="260"> 
 </div>
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm HUREISH!</h1>
