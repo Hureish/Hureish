@@ -1,14 +1,14 @@
 <div align="center"> 
- <img src="https://github.com/ronaldo0820/ronaldo0820/blob/main/github.gif" width="250" height="260"> 
+ <img src="https://github.com/Hureish/Hureish/blob/main/github.gif" width="250" height="260"> 
  <img src="https://thumbs.gfycat.com/AmusedSilkyImperatorangel-size_restricted.gif" width="500" height="260"> 
 </div>
 
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Ronaldo!</h1>
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm HUREISH!</h1>
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Samayapuram, Trichy. I have a huge enthusiasm in Cloud Computing(AWS). I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ronaldo0820&label=Profile%20views&color=ce9927&style=flat" alt="ronaldo0820" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Hureish&label=Profile%20views&color=ce9927&style=flat" alt="Hureish" /> </p>
 ⚡ Fun facts -**Taking too much time in "Main function" is a Crime.**
 
 <h1 align="center">Tech-Stack</h1>
